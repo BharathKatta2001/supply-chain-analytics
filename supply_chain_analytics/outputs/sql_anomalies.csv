@@ -1,0 +1,21 @@
+order_id,product_id,supplier,warehouse,order_date,promised_delivery_days,actual_delivery_days,delivery_variance,status,revenue
+ORD-00005,P002,SwiftVendors,Los Angeles CA,2024-09-10,7,17,10,Delivered,12250.0
+ORD-00010,P009,SwiftVendors,Dallas TX,2023-08-23,3,13,10,Delivered,7395.0
+ORD-00013,P007,GlobalTrade Co.,Atlanta GA,2024-05-20,4,14,10,Delivered,564.0
+ORD-00015,P009,Apex Supplies,Dallas TX,2024-11-29,11,21,10,Delivered,8910.0
+ORD-00046,P007,SwiftVendors,New York NY,2024-11-16,14,24,10,Delivered,48.0
+ORD-00050,P005,NextGen Parts,New York NY,2023-12-20,14,24,10,Delivered,400.0
+ORD-00055,P007,SwiftVendors,Los Angeles CA,2023-08-04,9,19,10,In Transit,852.0
+ORD-00056,P006,PrimeSources,Chicago IL,2024-06-07,10,20,10,Cancelled,8550.0
+ORD-00058,P004,Apex Supplies,Chicago IL,2024-05-01,12,22,10,Delivered,1045.0
+ORD-00068,P007,PrimeSources,Los Angeles CA,2024-11-15,13,23,10,Pending,756.0
+ORD-00076,P004,SwiftVendors,Atlanta GA,2023-05-04,12,22,10,Delivered,654.5
+ORD-00081,P001,GlobalTrade Co.,New York NY,2023-08-06,8,18,10,Delivered,7680.0
+ORD-00104,P001,SwiftVendors,Los Angeles CA,2023-11-28,4,14,10,Pending,7080.0
+ORD-00110,P007,NextGen Parts,Chicago IL,2023-03-13,7,17,10,Cancelled,270.0
+ORD-00112,P003,PrimeSources,Los Angeles CA,2023-12-07,11,21,10,In Transit,1827.0
+ORD-00113,P006,GlobalTrade Co.,Atlanta GA,2024-01-28,6,16,10,Pending,3187.5
+ORD-00117,P006,PrimeSources,Los Angeles CA,2024-10-03,14,24,10,Pending,11745.0
+ORD-00119,P002,SwiftVendors,Dallas TX,2023-02-17,8,18,10,Delivered,14250.0
+ORD-00122,P008,PrimeSources,Los Angeles CA,2024-11-13,3,13,10,Pending,1640.0
+ORD-00126,P001,PrimeSources,Los Angeles CA,2023-08-24,12,22,10,Delivered,7956.0

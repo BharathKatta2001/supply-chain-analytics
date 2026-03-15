@@ -1,0 +1,6 @@
+warehouse,total_orders,total_revenue,on_time_rate_pct,avg_delivery_variance_days
+Los Angeles CA,416,2925842.8,22.8,4.02
+Atlanta GA,390,2919015.2,20.3,4.14
+New York NY,395,2848579.75,21.8,4.18
+Chicago IL,405,2797783.35,25.9,3.66
+Dallas TX,394,2680453.7,22.8,4.0
