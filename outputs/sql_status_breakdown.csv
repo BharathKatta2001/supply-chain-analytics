@@ -1,0 +1,6 @@
+status,order_count,total_revenue,avg_revenue
+Delivered,847,5888058.85,6951.66
+In Transit,301,2137705.45,7102.01
+Pending,303,2126911.25,7019.51
+Cancelled,266,2042245.1,7677.61
+Delayed,283,1976754.15,6985.0
