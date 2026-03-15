@@ -1,0 +1,6 @@
+category,total_revenue,total_orders,avg_discount,on_time_rate
+Apparel,891190.5,413,0.051,0.262
+Electronics,3361811.5,391,0.049,0.22
+Food & Bev,322798.8,417,0.049,0.221
+Home & Garden,2186999.0,398,0.05,0.211
+Industrial,7408875.0,381,0.055,0.223
